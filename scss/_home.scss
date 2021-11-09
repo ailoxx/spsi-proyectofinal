@@ -1,0 +1,25 @@
+.cuadroTexto {
+  margin-top: 2rem;
+  padding: 1rem 1rem 1rem 1rem;
+  box-shadow: 0 10px 30px -10px black;
+}
+.cuadroTexto--letrachica {
+  background: rgb(121, 59, 67);
+  color: white;
+}
+
+.cuadroTexto--titulo {
+  background: #283593;
+  color: white;
+}
+
+.cuadroTexto__text {
+  font-size: 1rem;
+}
+
+.cuadroTexto__title {
+  font-size: 3rem;
+}
+.cuadroTexto__textsmall {
+  font-size: 0.7rem;
+}

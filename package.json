@@ -1,0 +1,11 @@
+{
+  "name": "spsi-proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "author": "Ailen Mourelle",
+  "license": "ISC"
+}
