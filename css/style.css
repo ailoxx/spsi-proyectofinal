@@ -28,6 +28,10 @@ footer {
   padding-top: 3rem;
 }
 
+.page-footer {
+  background-color: #023566;
+}
+
 .cuadroTexto {
   margin-top: 2rem;
   padding: 1rem 1rem 1rem 1rem;
