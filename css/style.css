@@ -56,6 +56,10 @@ footer {
   font-size: 0.7rem;
 }
 
+.ZonaCobertura {
+  background: #793b43;
+}
+
 .intro {
   margin-top: 2rem;
   padding: 1rem 1rem 1rem 1rem;
@@ -122,14 +126,12 @@ footer {
 .carousel-indicators {
   left: 0;
   top: auto;
-  bottom: -70%;
+  bottom: 7%;
 }
 
 .carousel-indicators li {
   background: #000;
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
+  border-radius: 20%;
 }
 
 .carousel-indicators .active {
