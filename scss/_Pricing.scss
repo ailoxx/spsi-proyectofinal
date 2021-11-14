@@ -64,14 +64,14 @@
 .carousel-indicators {
   left: 0;
   top: auto;
-  bottom: 5%;
+  bottom: -6%;
 }
 
 .carousel-indicators li {
-  background: #000;
+  background: rgb(163, 168, 184);
   border-radius: 20%;
 }
 
 .carousel-indicators .active {
-  background: #fff;
+  background: rgb(73, 84, 184);
 }
